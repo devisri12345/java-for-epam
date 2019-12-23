@@ -25,6 +25,6 @@ public class Lab2
 	
 		System.out.println(min);
 			System.out.println(max);
-		
+	}	
 		
 	}
